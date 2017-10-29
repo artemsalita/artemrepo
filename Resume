@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<title>Salita Artem</title>
+			<meta charset="utf-8">
+			<link rel=stylesheet href=style.css type="text/css">
+		</head>
+<body>
+<div class="inf">
+
+<h1>Salita Artem </h1>
+<h1>process engineer</h1>
+<hr>
+
+
+			<div class="imaginf" >
+		<p><img src="resumphoto.jpg" class="imag" align="left"><mark><b>About me:</b></mark> I'm Artem Salita, po priutam iya s 
+detstva skitalsia, ne imea rodnogo ugla.</p>
+		
+		<p><a href="tel: +7 9236907722">tel: +7 9236907722</a></p>
+		<p><a href="mail:  salita2212@gmail.com">mail:  salita2212@gmail.com</a></p>
+		<p>age: 32 (22.12.1984)</p>
+			</div>
+	
+
+		<div class="ski"><p><mark><b>Skills:</b></mark></p>
+<ul>
+<li>Leadership</li>
+<li>Organization</li>
+<li>Creativity</li>
+<li>Teamwork</li>
+</ul>	</div>
+
+ 
+	<div class="edu">
+<p><mark><b>Education:</b></mark>
+Omsk State University of Communication
+ Routes(2009). Electromechanical faculty. Power
+supply. Specialty: Electrician Engineer.
+</p>
+	</div>
+
+
+	<div class="exp">
+	<p><mark><b>Experience:</b></mark>
+(10.2012-10.2017 )Lead Engineer 
+Discription: Est autem est tempore voluptatum 
+voluptatibus eos possimus.
+(10.2011-10.2012)Design Engineer
+Discription: Rerum necessitatibus qui ducimus 
+veritatis.</p>
+	</div>
+
+
+
+
+
+	<div class="soft">
+	<p><mark><b>Software:</b></mark>
+SolidWorks, MS Office</p>
+	</div>
+
+
+
+	<div class="ref">
+	<p><mark><b>Reference:</b></mark>
+Omsk Transport Electronics Plant</p>
+	</div>
+<div class="hrr"></div>
+</div>
+
+</body>
+</html>
+
+
+
+

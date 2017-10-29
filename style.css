@@ -1,0 +1,20 @@
+.inf { width: 800px; display: block; 
+padding: 0 15px;
+margin: 0 auto;
+position: relative;
+}
+.imag {height: 230px; margin: 20px;
+}
+.inf p {font: 22px Arial; text-align: left;}
+.inf ul {font: 22px Arial; text-align: left;}
+.imaginf {position: relative; height: 300px; float: left;}
+.edu  {position: relative; width: 470px; 
+	float: left;height: 225px; padding-left: 10px; background: #BDB76B;}
+
+.ski  {position: relative; width: 300px; float: left; height: 450px; background: #BDB76B;}
+.exp {position: relative; width: 470px;
+ float: left;height: 225px;padding-left: 10px; background: #BDB76B;}
+.ref{position: relative; width: 470px;
+ float: left;padding-left: 10px;}
+.soft {position: relative; width: 300px; float: left;}
+.hrr {position: relative; width: 770px; float: left; height: 30px; background: #BDB76B;}
