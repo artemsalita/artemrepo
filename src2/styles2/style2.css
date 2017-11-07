@@ -1,0 +1,94 @@
+.inf { 
+	width: 800px;
+	display: block; 
+	padding: 0 5px;
+	margin: 0 auto;
+	/*position: relative;*/
+}
+
+#header {
+	width: 800px;
+	height: 200px;
+}
+
+#header h1 {
+	font: 34px bold Times; 
+
+}
+
+ .column {
+ 	font: 18px Arial;
+ 	display: inline-block;
+ 	vertical-align: top;
+
+}
+
+.left {
+	width: 295px;
+
+}
+
+
+.right{
+	width: 485px;
+	padding-left: 10px;
+
+}
+
+.imag {
+	width: 295px;
+}
+
+.right h2{
+	font: 24px Arial bold;
+	background: #FFD700;
+	width: 160px;
+
+}
+.left h2{
+	font: 24px Arial bold;
+	background: #FFD700;
+	width: 130px;
+
+}
+
+#footer {
+ width: 800px; 
+ height: 30px; 
+ background: #FFD700;
+ 
+}
+
+/*
+.inf p {
+	 
+}
+
+.inf ul {
+	
+ 	
+}
+
+.imaginf {
+	
+ 	 
+}
+
+.edu  {
+	 	
+}
+
+.ski  {
+	 	
+}
+
+.exp {
+	 
+}
+
+.ref{
+}
+
+.soft {
+}
+*/
