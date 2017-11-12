@@ -1,62 +1,106 @@
+body {  
+	font-family: CenturyGothic, sans-serif;
+  	font-size: 35px;
+  	line-height: 56px;
+  	letter-spacing: 0.025em;
+	color: #1a1a1a;
+}
+
+
 .inf { 
-	width: 800px;
+	width: 2480px;
 	display: block; 
-	padding: 0 5px;
+	padding: 0 100px;
 	margin: 0 auto;
 	/*position: relative;*/
 }
 
 #header {
-	width: 800px;
-	height: 200px;
+	width: 100%;
+	/*height: 200px;*/
 }
 
 #header h1 {
-	font: 34px bold Times; 
+	font-size: 92px;
+  line-height: 1em;
+text-transform: uppercase;
+
 
 }
 
  .column {
- 	font: 18px Arial;
  	display: inline-block;
  	vertical-align: top;
+ 	color: #9d9fa2;
+
 
 }
 
 .left {
-	width: 295px;
+	width: 779px;
+	margin-right: 100px;
 
 }
 
 
 .right{
-	width: 485px;
-	padding-left: 10px;
+	width: 1361px;
+
 
 }
 
 .imag {
-	width: 295px;
+	width: 779px;
+	margin-bottom: 60px;
 }
 
 .right h2{
-	font: 24px Arial bold;
-	background: #FFD700;
-	width: 160px;
+
+	background: #f3c915;
+	width: 360px;
+	color: #9d9fa2;
 
 }
 .left h2{
-	font: 24px Arial bold;
-	background: #FFD700;
-	width: 130px;
+
+	background: #f3c915;
+	width: 300px;
+	color: #9d9fa2;
 
 }
 
 #footer {
- width: 800px; 
- height: 30px; 
- background: #FFD700;
+ width: 100%; 
+ height: 50px; 
+ background: #f3c915;
+ margin-top: 130px;
+
  
+}
+
+.column h2, h3{
+	color: #414142;
+}
+
+.skill__progress {
+	width: 520px;
+    height: 28px;
+    border: 3px solid #e4e5e6;
+	box-sizing: border-box;
+}
+
+.skill__progress:after {
+	content: "";
+  	display: block;
+  	height: 28px;
+  	background: #bcbdc0;
+  	position: relative;
+  	top: -3px;
+	left: -3px;
+
+}
+.skill__progress_80:after {
+  width: 80%;
 }
 
 /*
