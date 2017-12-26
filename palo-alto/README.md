@@ -36,7 +36,7 @@ $ node -v
 with SSH:
 
 ```sh
-$ git clone git@github.com:veselovskaya/palo-alto.git
+$ git clone git@github.com:artemsalita/artemrepo.git
 ```
 
 #### 4. Go to project's folder:
